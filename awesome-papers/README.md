@@ -30,3 +30,5 @@ Some resources that may assist in understanding papers in this section:
 * [A DNA-Based Archival Storage System](https://homes.cs.washington.edu/~luisceze/publications/dnastorage-asplos16.pdf)
     - DNA is a strong candidate for storing data stably for centuries. DNA also has a very high data/volume density (1 exabyte / mm³).
     - This paper describes an algorithm for storing binary data in the form of DNA that is optimized for biochemical reactions.
+
+* [Deep Canonical Correlation Analysis](https://ttic.uchicago.edu/~klivescu/papers/andrew_icml2013.pdf)

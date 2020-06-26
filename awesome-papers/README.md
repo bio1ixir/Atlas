@@ -3,7 +3,6 @@
 
 > Inspired from [papers-we-love](https://github.com/papers-we-love/)
 ## Bioinformatics 
-===========
 #### Sequence Analysis
 * [SneakySnake: A Fast and Accurate Universal Genome Pre-Alignment Filter for CPUs, GPUs, and FPGAs (2019)](https://arxiv.org/abs/1910.09020v2)
 * [Shouji: a fast and efficient pre-alignment filter for sequence alignment (2019)](https://arxiv.org/ftp/arxiv/papers/1809/1809.07858.pdf)
@@ -12,6 +11,7 @@
 #### Multimodal data clustering
 * [Multi-view Clustering: A Survey (2018)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8336846)
 * [Multi-omic and multi-view clustering algorithms: review and cancer benchmark (2018)](https://pubmed.ncbi.nlm.nih.gov/30295871/)
+* [Fast dimension reduction and integrative  clustering of multi-omics data using low-rank approximation: application to cancer molecular classification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667498/)
 
 ## Biocomputing
 

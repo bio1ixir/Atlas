@@ -32,3 +32,6 @@ Some resources that may assist in understanding papers in this section:
     - This paper describes an algorithm for storing binary data in the form of DNA that is optimized for biochemical reactions.
 
 * [Deep Canonical Correlation Analysis](https://ttic.uchicago.edu/~klivescu/papers/andrew_icml2013.pdf)
+
+## Misc
+* [Laplacian K-mode algorithm for clustering (2014)](https://arxiv.org/pdf/1406.3895.pdf)

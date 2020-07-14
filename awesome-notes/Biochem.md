@@ -51,5 +51,13 @@
 
 - **[S]** vs **[S]/V**  plot.
 
+---
+
+---
+
+# Membrane Transport Proteins
+
+![img]("./images/Screenshot_2020-07-15 Biochemistry BB221")
+
 
 

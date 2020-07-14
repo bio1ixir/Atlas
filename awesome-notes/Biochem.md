@@ -57,7 +57,7 @@
 
 # Membrane Transport Proteins
 
-![img]("./images/Screenshot_2020-07-15 Biochemistry BB221")
+![img](./images/Screenshot_2020-07-15 Biochemistry BB221.png)
 
 
 

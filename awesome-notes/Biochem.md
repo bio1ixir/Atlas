@@ -73,7 +73,50 @@
 
     > **Single-pass** membrane proteins cross the membrane only once, while **multi-pass** membrane proteins weave in and out, crossing several times
 
-- **Transmembrane lipid anchored proteins:** 
+- **Transmembrane lipid anchored proteins:** Proteins (**single or multi pass**) covalently bonded with the fatty acid chain embedded in the membrane. They assume themselves a position in the bilayer alongside the similar fatty acid tail.
+
+- **Integral membrane proteins:** Permanently attached to **biological membrane**
+
+  - Proteins permanently attached to the cell membrane. 
+  - All transmembrane proteins are IMP, but not all IMPs are transmembrane.
+  - Functions:
+    - cell signalling
+    - transportation
+    - enzymatic activity
+    - cell cell recognition
+    - Intracellular joining
+
+- **Membrane associated proteins (Peripheral):**  
+
+  - Unlike IMPs, peripheral membrane proteins are attached to the the **biological membrane** for a short while.
+  - Attaches to IMPs (/transmembrane) to penetrate the bilayer membrane.
+  - Utilised in functions like cell signalling. 
+
+### Classification based on topology (alpha helix only)
+
+This classification refers to the position of N and C terminal on different sides.
+
+- **Type I:** one transmembrane helix, N term outside
+- **Type II:** one transmembrane helix, C term outside
+- **Type III:** multi-pass transmembrane helix on a single popypeptide
+- **Type IV:** multiple transmembrane helix on different popypeptides
+- **Type V:** Lipid anchored proteins (covalently). Not transmembrane helix
+- **Type VI:** Lipid bounded transmembranes.
+
+### Location of amino acids
+
+- Residues with aliphatic side-chains (leucine, isoleucine, alanine, valine) predominate
+  in the middle of the bilayer.
+- Tyrosine and tryptophan are common near membrane surface.
+- Polar character of tryptophan amide group and tyrosine hydroxyl, along with
+  hydrophobic ring structures, suit for localization at polar/apolar interface.
+- Lysine & arginine are often at the lipid/water interface.
+- Positively charged groups at the ends of their aliphatic side chains extend toward the
+  polar membrane surface.
+- Pro and Gly are more common in membrane helices than in soluble protein helices.
+- Cys, Thr and Ser can make hydrogen bond to the main chains
+
+
 
 
 
